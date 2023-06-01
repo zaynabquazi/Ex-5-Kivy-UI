@@ -138,3 +138,5 @@ if __name__ == "__main__":
     # send_event("Project Initialized")
     # Window.fullscreen = 'auto'
     ProjectNameGUI().run()
+    
+    #this helps output desired result by calculating the coordinates in the way the joystick moves. it also helps user interact with the table and give user input and output.
